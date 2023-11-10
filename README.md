@@ -1,5 +1,3 @@
-# 201opschallenge13.sh
-201opschallenge13.sh
 #!/bin/bash
 
 # Script:                     Opschallenge13
